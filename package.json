@@ -1,0 +1,15 @@
+{
+  "name": "rename",
+  "version": "1.0.0",
+  "description": "batch rename",
+  "main": "rename.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "batch",
+    "rename"
+  ],
+  "author": "Warren",
+  "license": "ISC"
+}
